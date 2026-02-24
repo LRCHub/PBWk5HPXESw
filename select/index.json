@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "カイホウエクササイズ",
+  "base_artist": "あめんぼぷらす",
+  "createdAt": "2026-02-24T00:18:30.203310Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "カイホウエクササイズ",
+      "artist": "あめんぼぷらす",
+      "has_synced": false,
+      "path": "select/pl_01_カイホウエクササイズ_あめんぼぷらす.txt"
+    }
+  ]
+}
